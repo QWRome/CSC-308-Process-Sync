@@ -3,7 +3,9 @@ This repository contains the source code for the Week 6 Process Synchronization 
 
 ## Author
 **Name: Ekwe Roselinemaria Adaku.
+
 Registration Number: 2023514039.
+
 Department: Computer Science**.
 
 ## Project Overview
@@ -29,7 +31,9 @@ These programs demonstrate various methods of handling concurrency, synchronizat
 
 ## Environment.
 OS: Ubuntu on Windows Subsystem for Linux (WSL)
+
 Compiler: GCC
+
 Language: C
 
 ## How to Compile and Run.
