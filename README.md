@@ -1,13 +1,6 @@
 # CSC-308: Process Synchronization Practicals.
 This repository contains the source code for the Week 6 Process Synchronization and Inter-Process Communication (IPC) laboratory exercises. 
 
-## Author
-Name: Ekwe Roselinemaria Adaku.
-
-Registration Number: 2023514039.
-
-Department: Computer Science.
-
 ## Project Overview
 These programs demonstrate various methods of handling concurrency, synchronization, and shared memory in a Linux environment using C and the `pthread` and `sem.h` libraries.
 
